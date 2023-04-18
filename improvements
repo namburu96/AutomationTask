@@ -1,0 +1,17 @@
+Further improvements that could be considered to develop framework:
+
+	Now the code is built in a way that only add to card available products have been added to cart directly. we can develop this to add any product available even of different sizes to cart.
+
+	Multiple pages are there. we can make it work for all pages.
+
+	now we have added first four products in the whole list but we an make it add any random 4 products.
+
+Few other features that can be added to develop it into a full fledged framework:
+
+	Reporting mechanism
+	Parallel execution
+	Logging
+	Retry mechanism
+	Cross browser testing integration with browser stack.
+
+	
