@@ -8,7 +8,8 @@ C# ,
 Rider(IDE),
 Specflow.
 Selenium,
-NUnit.
+NUnit,
+Chrome driver
 
 
 
